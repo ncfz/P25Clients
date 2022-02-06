@@ -147,6 +147,9 @@
 # 9846 P25 Portal to WW8GM YSF network www.gmarc.org 
 9846	p25.dudetronics.com	41001
 
+# 10028 ChengDu City, China
+10028	114.115.167.98	41000
+
 # 10100 World Wide	http://www.george-smart.co.uk/p25/
 10100	m1geo.com		41000
 
